@@ -1,0 +1,80 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ./data_out  # dataset root dir
+train: train  # train images (relative to 'path')
+val: valid  # val images (relative to 'path')
+
+# Classes
+names:
+  0: A10
+  1: A400M
+  2: AG600
+  3: AH64
+  4: An22
+  5: An72
+  6: An124
+  7: An225
+  8: AV8B
+  9: B1
+  10: B2
+  11: B21
+  12: B52
+  13: Be200
+  14: C2
+  15: C5
+  16: C17
+  17: C130
+  18: C390
+  19: CH47
+  20: CL415
+  21: E2
+  22: E7
+  23: EF2000
+  24: F4
+  25: F14
+  26: F15
+  27: F16
+  28: F18
+  29: F22
+  30: F35
+  31: F117
+  32: H6
+  33: J10
+  34: J20
+  35: JAS39
+  36: JF17
+  37: JH7
+  38: Ka27
+  39: Ka52
+  40: KC135
+  41: KF21
+  42: KJ600
+  43: Mi24
+  44: Mi28
+  45: Mig29
+  46: Mig31
+  47: Mirage2000
+  48: MQ9
+  49: P3
+  50: Rafale
+  51: RQ4
+  52: SR71
+  53: Su24
+  54: Su25
+  55: Su34
+  56: Su57
+  57: TB001
+  58: TB2
+  59: Tornado
+  60: Tu22M
+  61: Tu95
+  62: Tu160
+  63: U2
+  64: UH60
+  65: US2
+  66: V22
+  67: Vulcan
+  68: WZ7
+  69: XB70
+  70: Y20
+  71: YF23
+  72: Z19
