@@ -1,1 +1,1 @@
-# SIAM: A military aircraft detection system
+# SIAM: A Military Aircraft Identifier System
